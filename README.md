@@ -9,7 +9,7 @@ I'm a backend developer who enjoys building real-world systems with Java and Spr
 - Building MetricAPI — a Spring Boot service that collects and exposes hardware metrics from my home server
   toplayan ve sergileyen Spring Boot servisi
 - Learning: system design, Docker, and deployment best practices
-- 
+
 ---
 
 ## Tech Stack
