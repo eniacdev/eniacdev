@@ -32,11 +32,11 @@ I'm a backend developer who enjoys building real-world systems with Java and Spr
 
 ---
 
-## GitHub Stats
+## A Bit About Me
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=eniacdev&show_icons=true&theme=dark&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=eniacdev&layout=compact&theme=dark&hide_border=true)
+- Using and loving linux (NixOS).
+- who loves technology, software, and hardware.
+- Focused backend development.
 
 ---
 
